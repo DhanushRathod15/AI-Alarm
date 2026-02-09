@@ -416,27 +416,8 @@ Track these metrics for success:
 
 ---
 
-## 🤝 Contributing
-
-This is a production-grade architecture designed for scalability and maintainability. When contributing:
-
-1. Follow existing patterns
-2. Add comprehensive tests
-3. Document complex logic
-4. Keep mobile-first focus
-5. Maintain type safety
-
----
-
 ## 📄 License
 
 Proprietary - All rights reserved
 
 ---
-
-## 🎉 Credits
-
-Built with ❤️ as a mission to help students learn while waking up.
-
-**Design Inspiration**: Alarmy, Sleep Cycle, Duolingo  
-**Mission**: Challenge users, ensure reliability, foster growth
